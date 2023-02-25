@@ -1,4 +1,4 @@
-import { CurrencyAmount, Price } from '@smartdev1990/sdkv4'
+import { CurrencyAmount, Price } from '@smartdev1990/core-sdk'
 
 /**
  * Given certain amount if input and output tokens

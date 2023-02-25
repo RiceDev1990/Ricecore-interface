@@ -1,7 +1,7 @@
 import JSBI from 'jsbi'
 import { useDispatch, useSelector } from 'react-redux'
 import { ParsedUrlQuery } from 'querystring'
-import { Currency, CurrencyAmount, TokenAmount, Trade, Token, Price, ETHER } from '@smartdev1990/sdkv4'
+import { Currency, CurrencyAmount, TokenAmount, Trade, Token, Price, ETHER } from '@smartdev1990/core-sdk'
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { DEFAULT_INPUT_CURRENCY, DEFAULT_OUTPUT_CURRENCY } from 'config/constants'
 import { useRouter } from 'next/router'

@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from '@smartdev1990/sdkv4'
+import { Currency, Percent, Price } from '@smartdev1990/core-sdk'
 import { Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { AutoColumn } from '../../components/Layout/Column'

@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Flex, Text } from '@pancakeswap/uikit'
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import BaseCell, { CellContent } from 'views/Pools/components/PoolsTable/Cells/BaseCell'
 import { TokenPairImage } from 'components/TokenImage'
 import { FarmWithStakedValue } from 'views/Farms/components/types'

@@ -1,4 +1,4 @@
-import { ChainId } from '@smartdev1990/sdkv4'
+import { ChainId } from '@smartdev1990/core-sdk'
 import { CHAIN_ID } from 'config/constants/networks'
 import store from 'state'
 import { GAS_PRICE_GWEI } from 'state/types'

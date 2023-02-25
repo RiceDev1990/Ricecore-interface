@@ -12,7 +12,7 @@ import {
   DeserializedFarmConfig,
   FetchStatus,
 } from 'config/constants/types'
-import { Token, ChainId } from '@smartdev1990/sdkv4'
+import { Token, ChainId } from '@smartdev1990/core-sdk'
 import { TokenInfo, TokenList, Tags } from '@uniswap/token-lists'
 import { parseUnits } from '@ethersproject/units'
 import { NftToken, State as NftMarketState } from './nftMarket/types'

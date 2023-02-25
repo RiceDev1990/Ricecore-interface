@@ -1,4 +1,4 @@
-import { Trade, Percent, currencyEquals } from '@smartdev1990/sdkv4'
+import { Trade, Percent, currencyEquals } from '@smartdev1990/core-sdk'
 import { ZERO_PERCENT, ONE_HUNDRED_PERCENT } from '../config/constants/index'
 
 // returns whether tradeB is better than tradeA by at least a threshold percentage amount

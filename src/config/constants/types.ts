@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js'
-import { ChainId, Token } from '@smartdev1990/sdkv4'
+import { ChainId, Token } from '@smartdev1990/core-sdk'
 
 // a list of tokens by chain
 export type ChainTokenList = {

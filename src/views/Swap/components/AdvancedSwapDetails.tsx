@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@smartdev1990/sdkv4'
+import { Trade, TradeType } from '@smartdev1990/core-sdk'
 import { Text } from '@pancakeswap/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from 'contexts/Localization'

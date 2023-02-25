@@ -1,4 +1,4 @@
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import { Box, Card, Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PreviousBetsTable from '../PreviousBetsTable'

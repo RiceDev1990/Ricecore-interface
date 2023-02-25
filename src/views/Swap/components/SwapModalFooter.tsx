@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import styled from 'styled-components'
-import { Trade, TradeType } from '@smartdev1990/sdkv4'
+import { Trade, TradeType } from '@smartdev1990/core-sdk'
 import { Button, Text, AutoRenewIcon } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Field } from 'state/swap/actions'

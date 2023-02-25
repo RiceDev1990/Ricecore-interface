@@ -1,4 +1,4 @@
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import Balance from 'components/Balance'
 import { Flex, Skeleton, Text, TooltipText, useTooltip } from '@pancakeswap/uikit'
 import BigNumber from 'bignumber.js'

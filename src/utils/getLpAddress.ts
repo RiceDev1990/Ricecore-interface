@@ -1,4 +1,4 @@
-import { Token, Pair, ChainId } from '@smartdev1990/sdkv4'
+import { Token, Pair, ChainId } from '@smartdev1990/core-sdk'
 import { isAddress } from 'utils'
 
 const getLpAddress = (token1: string | Token, token2: string | Token) => {

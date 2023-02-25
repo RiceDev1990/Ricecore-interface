@@ -1,7 +1,7 @@
 import { InjectedConnector } from '@web3-react/injected-connector'
 import { WalletConnectConnector } from '@web3-react/walletconnect-connector'
 import { AbstractConnector } from '@web3-react/abstract-connector'
-import { ChainId } from '@smartdev1990/sdkv4'
+import { ChainId } from '@smartdev1990/core-sdk'
 import { BscConnector } from '@binance-chain/bsc-connector'
 import { ConnectorNames } from '@pancakeswap/uikit'
 import { hexlify } from '@ethersproject/bytes'
@@ -37,7 +37,7 @@ export const connectorsByName = {
     return new WalletLinkConnector({
       url: rpcUrl,
       appName: 'RiceSwap',
-      appLogoUrl: "https://i.ibb.co/G3V8HTd/1.png",
+      appLogoUrl: 'https://i.ibb.co/G3V8HTd/1.png',
       supportedChainIds: [ChainId.CORE, ChainId.MAINNET, ChainId.TESTNET],
     })
   },

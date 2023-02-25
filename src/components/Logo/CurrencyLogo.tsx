@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@smartdev1990/sdkv4'
+import { Currency, ETHER, Token } from '@smartdev1990/core-sdk'
 import { BinanceIcon } from '@pancakeswap/uikit'
 import { useMemo } from 'react'
 import styled from 'styled-components'

@@ -1,5 +1,5 @@
 import { Dispatch, SetStateAction } from 'react'
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import BigNumber from 'bignumber.js'
 import { VaultPosition, VaultPositionParams } from 'utils/cakePool'
 import { DeserializedLockedVaultUser } from 'state/types'

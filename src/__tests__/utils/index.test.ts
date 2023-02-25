@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@smartdev1990/sdkv4'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@smartdev1990/core-sdk'
 import { getBscScanLink, calculateSlippageAmount, isAddress, calculateGasMargin, basisPointsToPercent } from 'utils'
 
 describe('utils', () => {

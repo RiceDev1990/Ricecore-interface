@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
 import { TokenInfo } from '@uniswap/token-lists'
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import { isAddress } from '../../utils'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {

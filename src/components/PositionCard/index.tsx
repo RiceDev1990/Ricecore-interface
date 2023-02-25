@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { JSBI, Pair, Percent } from '@smartdev1990/sdkv4'
+import { JSBI, Pair, Percent } from '@smartdev1990/core-sdk'
 import {
   Button,
   Text,

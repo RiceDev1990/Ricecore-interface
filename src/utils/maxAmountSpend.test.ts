@@ -1,4 +1,4 @@
-import { CurrencyAmount, JSBI } from '@smartdev1990/sdkv4'
+import { CurrencyAmount, JSBI } from '@smartdev1990/core-sdk'
 import { maxAmountSpend } from './maxAmountSpend'
 
 describe('maxAmountSpend', () => {

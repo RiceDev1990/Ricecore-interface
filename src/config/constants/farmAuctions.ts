@@ -1,4 +1,4 @@
-import { ChainId } from '@smartdev1990/sdkv4'
+import { ChainId } from '@smartdev1990/core-sdk'
 import getLpAddress from 'utils/getLpAddress'
 import { CHAIN_ID } from './networks'
 import tokens from './tokens'

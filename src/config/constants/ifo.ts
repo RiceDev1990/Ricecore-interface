@@ -1,4 +1,4 @@
-import { Token, ChainId } from '@smartdev1990/sdkv4'
+import { Token, ChainId } from '@smartdev1990/core-sdk'
 import { briseToken } from './tokens'
 import { CAKE_BNB_LP_MAINNET } from './farms'
 import { Ifo } from './types'

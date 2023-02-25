@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, ETHER, Token, Trade } from '@smartdev1990/sdkv4'
+import { Currency, CurrencyAmount, ETHER, Token, Trade } from '@smartdev1990/core-sdk'
 import { ParsedUrlQuery } from 'querystring'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { DEFAULT_INPUT_CURRENCY, DEFAULT_OUTPUT_CURRENCY, SLOW_INTERVAL } from 'config/constants'

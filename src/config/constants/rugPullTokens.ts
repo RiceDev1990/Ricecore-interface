@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@smartdev1990/sdkv4'
+import { ChainId, Token } from '@smartdev1990/core-sdk'
 import { CHAIN_ID } from './networks'
 import { defineTokens } from './tokens'
 

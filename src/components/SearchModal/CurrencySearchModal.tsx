@@ -1,5 +1,5 @@
 import { useCallback, useState } from 'react'
-import { Currency, Token } from '@smartdev1990/sdkv4'
+import { Currency, Token } from '@smartdev1990/core-sdk'
 import {
   ModalContainer,
   ModalHeader,

@@ -6,7 +6,7 @@ import { TransactionResponse } from '@ethersproject/providers'
 
 import { useOrderActionHandlers } from 'state/limitOrders/hooks'
 import { Field, Rate } from 'state/limitOrders/types'
-import { Currency, Price } from '@smartdev1990/sdkv4'
+import { Currency, Price } from '@smartdev1990/core-sdk'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTransactionAdder } from 'state/transactions/hooks'
 import { useSWRConfig } from 'swr'

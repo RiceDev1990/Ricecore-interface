@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@smartdev1990/sdkv4'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@smartdev1990/core-sdk'
 import { computeTradePriceBreakdown } from 'utils/prices'
 
 describe('prices', () => {

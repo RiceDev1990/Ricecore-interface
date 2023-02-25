@@ -1,4 +1,4 @@
-import { Currency } from '@smartdev1990/sdkv4'
+import { Currency } from '@smartdev1990/core-sdk'
 import CurrencyLogo from 'components/Logo/CurrencyLogo'
 import TextIcon from './TextIcon'
 

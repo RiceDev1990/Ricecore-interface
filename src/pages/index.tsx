@@ -1,4 +1,4 @@
-import { FACTORY_ADDRESS } from '@smartdev1990/sdkv4'
+import { FACTORY_ADDRESS } from '@smartdev1990/core-sdk'
 import { getUnixTime, sub } from 'date-fns'
 import { gql } from 'graphql-request'
 import { GetStaticProps } from 'next'

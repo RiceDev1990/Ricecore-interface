@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@smartdev1990/sdkv4'
+import { ChainId, Token } from '@smartdev1990/core-sdk'
 import { createSelector } from '@reduxjs/toolkit'
 import { CHAIN_ID } from 'config/constants/networks'
 import { useSelector } from 'react-redux'

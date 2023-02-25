@@ -12,7 +12,7 @@ import {
 } from '@pancakeswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { Activity, NftToken } from 'state/nftMarket/types'
-import { Price } from '@smartdev1990/sdkv4'
+import { Price } from '@smartdev1990/core-sdk'
 import { getBscScanLink } from 'utils'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import ProfileCell from 'views/Nft/market/components/ProfileCell'

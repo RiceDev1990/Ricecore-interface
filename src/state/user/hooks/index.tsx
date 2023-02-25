@@ -1,4 +1,4 @@
-import { ChainId, Pair, Token } from '@smartdev1990/sdkv4'
+import { ChainId, Pair, Token } from '@smartdev1990/core-sdk'
 import { differenceInDays } from 'date-fns'
 import flatMap from 'lodash/flatMap'
 import farms from 'config/constants/farms'

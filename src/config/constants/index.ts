@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token } from '@smartdev1990/sdkv4'
+import { ChainId, JSBI, Percent, Token } from '@smartdev1990/core-sdk'
 import { BigNumber } from '@ethersproject/bignumber'
 import { briseToken } from './tokens'
 import { ChainTokenList } from './types'

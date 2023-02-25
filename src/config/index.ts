@@ -1,4 +1,4 @@
-import { ChainId } from '@smartdev1990/sdkv4'
+import { ChainId } from '@smartdev1990/core-sdk'
 import BigNumber from 'bignumber.js/bignumber'
 import { BIG_TEN } from 'utils/bigNumber'
 

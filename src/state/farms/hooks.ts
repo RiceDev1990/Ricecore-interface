@@ -1,4 +1,4 @@
-import { ChainId } from '@smartdev1990/sdkv4'
+import { ChainId } from '@smartdev1990/core-sdk'
 import { useWeb3React } from '@web3-react/core'
 import BigNumber from 'bignumber.js'
 import { farmsConfig, SLOW_INTERVAL } from 'config/constants'

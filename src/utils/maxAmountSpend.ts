@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@smartdev1990/sdkv4'
+import { CurrencyAmount, ETHER, JSBI } from '@smartdev1990/core-sdk'
 import { MIN_BNB } from '../config/constants'
 
 /**

@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from '@smartdev1990/sdkv4'
+import { Currency, currencyEquals, ETHER, WETH } from '@smartdev1990/core-sdk'
 import { useMemo } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from 'contexts/Localization'

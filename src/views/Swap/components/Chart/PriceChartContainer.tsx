@@ -1,4 +1,4 @@
-import { Currency } from '@smartdev1990/sdkv4'
+import { Currency } from '@smartdev1990/core-sdk'
 import useTheme from 'hooks/useTheme'
 import { useCallback, useState } from 'react'
 import BnbWbnbNotice from './BnbWbnbNotice'

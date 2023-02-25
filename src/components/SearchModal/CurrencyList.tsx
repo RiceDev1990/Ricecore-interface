@@ -1,5 +1,5 @@
 import { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@smartdev1990/sdkv4'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@smartdev1990/core-sdk'
 import { Text } from '@pancakeswap/uikit'
 import styled from 'styled-components'
 import { FixedSizeList } from 'react-window'

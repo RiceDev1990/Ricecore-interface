@@ -1,4 +1,4 @@
-import { Price } from '@smartdev1990/sdkv4'
+import { Price } from '@smartdev1990/core-sdk'
 import { Flex, Text } from '@pancakeswap/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { useTranslation } from 'contexts/Localization'

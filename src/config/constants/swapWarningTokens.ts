@@ -1,4 +1,4 @@
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import tokens from 'config/constants/tokens'
 import rugPullTokens from 'config/constants/rugPullTokens'
 

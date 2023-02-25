@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { Token, TokenAmount } from '@smartdev1990/sdkv4'
+import { Token, TokenAmount } from '@smartdev1990/core-sdk'
 import { useTokenContract } from './useContract'
 import { useSingleCallResult } from '../state/multicall/hooks'
 

@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react'
-import { Currency, CurrencyAmount, Pair, Percent, Token, TokenAmount } from '@smartdev1990/sdkv4'
+import { Currency, CurrencyAmount, Pair, Percent, Token, TokenAmount } from '@smartdev1990/core-sdk'
 import { AddIcon, Button, InjectedModalProps, Text } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import TransactionConfirmationModal, {

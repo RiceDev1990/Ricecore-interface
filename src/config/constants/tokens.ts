@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@smartdev1990/sdkv4'
+import { ChainId, Token } from '@smartdev1990/core-sdk'
 import { serializeToken } from 'state/user/hooks/helpers'
 import { CHAIN_ID } from './networks'
 import { SerializedToken } from './types'
@@ -18,7 +18,7 @@ export const briseToken = defineTokens({
     18,
     'WCORE',
     'Wrapped CORE',
-    'https://www.binance.org'
+    'https://www.binance.org',
   ),
   // bnb here points to the wbnb contract. Wherever the currency BNB is required, conditional checks for the symbol 'BNB' can be used
   bnb: new Token(
@@ -27,7 +27,7 @@ export const briseToken = defineTokens({
     18,
     'WCORE',
     'Wrapped CORE',
-    'https://www.binance.org'
+    'https://www.binance.org',
   ),
   rice: new Token(
     ChainId.CORE,

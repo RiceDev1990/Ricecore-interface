@@ -1,4 +1,4 @@
-import { ChainId } from '@smartdev1990/sdkv4'
+import { ChainId } from '@smartdev1990/core-sdk'
 import { TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import uniqBy from 'lodash/uniqBy'

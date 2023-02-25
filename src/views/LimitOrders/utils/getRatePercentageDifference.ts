@@ -1,4 +1,4 @@
-import { Percent, Price } from '@smartdev1990/sdkv4'
+import { Percent, Price } from '@smartdev1990/core-sdk'
 
 const getRatePercentageDifference = (currentMarketRate: Price, price: Price) => {
   if (currentMarketRate && price) {

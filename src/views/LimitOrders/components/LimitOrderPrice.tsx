@@ -1,5 +1,5 @@
 import React from 'react'
-import { Currency, Percent, Price } from '@smartdev1990/sdkv4'
+import { Currency, Percent, Price } from '@smartdev1990/core-sdk'
 import styled from 'styled-components'
 import { Input, Flex, Text, Button, AutoRenewIcon, SyncAltIcon, HelpIcon, useTooltip } from '@pancakeswap/uikit'
 import { useTranslation } from 'contexts/Localization'

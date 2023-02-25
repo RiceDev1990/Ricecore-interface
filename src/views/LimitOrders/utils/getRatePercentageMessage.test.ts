@@ -1,4 +1,4 @@
-import { JSBI, Price, Token } from '@smartdev1990/sdkv4'
+import { JSBI, Price, Token } from '@smartdev1990/core-sdk'
 import getRatePercentageDifference from './getRatePercentageDifference'
 import { getRatePercentageMessage, PercentageDirection } from './getRatePercentageMessage'
 

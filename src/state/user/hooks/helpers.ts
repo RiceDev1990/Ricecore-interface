@@ -1,4 +1,4 @@
-import { Token } from '@smartdev1990/sdkv4'
+import { Token } from '@smartdev1990/core-sdk'
 import { SerializedToken } from 'config/constants/types'
 import { WrappedTokenInfo } from 'state/types'
 

@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@smartdev1990/sdkv4'
+import { Token, TokenAmount } from '@smartdev1990/core-sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from './useContract'
